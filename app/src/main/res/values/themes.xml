@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SosmedDicoding" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryVariant">@color/colorBlue</item>
+        <item name="android:statusBarColor">@color/colorBlue</item>
+    </style>
+
+    <style name="Second.Theme.SosmedDicoding" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/colorBlue</item>
+        <item name="colorPrimaryVariant">@color/colorBlue</item>
+        <item name="android:statusBarColor">@color/colorBlue</item>
+    </style>
+
+    <style name="Theme.SosmedDicoding" parent="Base.Theme.SosmedDicoding" />
+
+    <style name="CornerRounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+        <item name="color">@color/white</item>
+    </style>
+</resources>

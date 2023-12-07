@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DicodingSocialMedia</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">Welcome\!</string>
+    <string name="my_sosmed">My Social Media</string>
+    <string name="auth_question">Do not have an account ?</string>
+    <string name="auth_question_two">Already have an account ?</string>
+    <string name="register_here">Register here</string>
+    <string name="login_here">Login here</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be > 8 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_failed">"Register failed"</string>
+
+    <string name="nav_name">Navigation Drawer</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gallery">Galerry</string>
+    <string name="upload">Upload</string>
+    <string name="camera_x">Camera X</string>
+    <string name="camera">Camera</string>
+    <string name="empty_image_warning">Please insert the image file first.</string>
+    <string name="desc">Write Description here....</string>
+    <string name="appwidget_text">STAR WARS BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="halo">Hi</string>
+    <string name="selamat_datang">Welcome</string>
+    <string name="log_out">Log Out</string>
+    <string name="language">Language</string>
+    <string name="created_at">Created At :</string>
+    <string name="description">Description</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+
+</resources>

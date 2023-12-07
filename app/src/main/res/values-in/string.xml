@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DicodingSocialMedia</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Nama</string>
+    <string name="prompt_password">Sandi</string>
+    <string name="action_login">Masuk</string>
+    <string name="action_register">Daftar</string>
+    <string name="welcome">SelamatDatang\\!</string>
+    <string name="my_sosmed">My Social Media</string>
+    <string name="auth_question">Tidak punya akun ?</string>
+    <string name="auth_question_two">Sudah memiliki akun ?</string>
+    <string name="register_here">Daftar disini</string>
+    <string name="login_here">Masuk disini</string>
+    <string name="invalid_username">username tidak valid</string>
+    <string name="invalid_password">Kata sandi harus > 8 karakter</string>
+    <string name="login_failed">Gagal masuk</string>
+    <string name="register_failed">Gagal daftar</string>
+
+    <string name="nav_name">Navigation Drawer</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera_x">Kamera X</string>
+    <string name="camera">Kamera</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="desc">Tulis deskripsi nya disini...</string>
+    <string name="appwidget_text">STAR WARS BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="halo">Halo</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="log_out">Keluar</string>
+    <string name="language">Bahasa</string>
+    <string name="created_at">Dibuat Pada :</string>
+    <string name="description">Deskripsi</string>
+
+</resources>
